@@ -86,3 +86,6 @@ This project was built collaboratively as part of a database design assignment f
 
 #### Simeon Munyondi
 - **Email**: [simeonmunyondi608@gmail.com](mailto:simeonmunyondi608@gmail.com)
+
+#### Ian Ongaga
+- **Email**: [kaizerin.halved855@passinbox.com](mailto:kaizerin.halved855@passinbox.com)
